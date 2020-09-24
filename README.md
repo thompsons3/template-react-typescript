@@ -30,7 +30,7 @@ Esse reposítório é compatível com a biblioteca **SEVERINO**.
 
 Serverino é uma biblioteca CLI (command-line interface) escrita em NodeJS. Sendo um gerador de código para projetos em ReactJS com Typescript.
 
-Link do repositório [Severino](https://github.com/ThompsonMss/severino)
+Link do repositório [Severino](https://github.com/thompsons3/severino)
 
 ##
 ## 📦Instalação
@@ -39,12 +39,12 @@ Siga os comandos abaixo para instalar essa aplicação em sua máquina.
 
 ```bash
 # Clonando o repositório da aplicação.
-git clone https://github.com/ThompsonMss/boilerplate-reactjs-typescript.git
+git clone https://github.com/thompsons3/template-react-typescript.git
 ```
 
 ```bash
 # Entrando na pasta da aplicação.
-cd boilerplate-reactjs-typescript.git
+cd template-react-typescript/
 ```
 
 ```bash
